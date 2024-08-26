@@ -1,0 +1,77 @@
+.Header{
+    background-color:brown;
+    color:white ;
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    text-align: center;
+    padding-left: 50px;
+    padding-top: 20px;
+   
+
+}
+a{
+    color: white;
+    background-color:brown;
+    text-decoration: none;
+    justify-content: space-between;
+    font-weight: normal;
+    
+    padding-left: 50px;
+}
+
+.A{
+
+background-color: brown;
+color: white;
+display: flex;
+
+}
+.A3{
+    color: blue;
+    text-align: center;
+    
+}
+
+.main{
+    background-color: brown;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    
+}
+.right{
+
+}
+
+.rand-info{
+    text-align: center;
+}
+
+.rand-child{
+    display: flex;
+    padding: 0 8vw;
+    font-size: 10px;
+
+}
+.element{
+text-align: center;
+font-style: italic;
+background-color: antiquewhite;
+}
+.element1{
+    font-style: normal;
+
+}
+
+.main1{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 100px;
+     
+}
+.right1{
+    text-align: end;
+    padding: 50px;   
+}
